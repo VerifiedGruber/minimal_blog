@@ -5,9 +5,13 @@ description: "A recent study published by Garvin MR, Alvarez C, Miller JI, et al
 keywords: "COVID sars-cov-2 pandemic virus bradykinin"
 ---
 
-## Why SARS-CoV-2 may have a 'simple' explanation and why  no human thought of it
+### Why SARS-CoV-2 may have a 'simple' explanation and the reason no human thought of it
 
-A paper initially published at
+
+##### ~ 4m59s reading time article | [synthetictulpas.com/blog/20200/Barking-dog-doesnt-bite](https://verifiedgruber.github.io/blog//2020/Barking-dog-doesnt-bite/)
+
+-----------------------
+A paper first published
 [July 7th](https://web.archive.org/web/*/https://elifesciences.org/articles/59177)
 (as of 2020) reads *"A mechanistic model and therapeutic interventions for
 COVID-19 involving a RAS-mediated bradykinin storm"* with the only relevant
