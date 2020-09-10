@@ -5,7 +5,7 @@ description: "A recent study published by Garvin MR, Alvarez C, Miller JI, et al
 keywords: "COVID sars-cov-2 pandemic virus bradykinin"
 ---
 
-## Why SARS-CoV-2 may be more simple and deadly than we previously thought"
+## Why SARS-CoV-2 may have a 'simple' explanation and why  no human thought of it
 
 A paper initially published at
 [July 7th](https://web.archive.org/web/*/https://elifesciences.org/articles/59177)
@@ -45,13 +45,15 @@ Instead, scientists started to notice most worrying stealthy characteristics of 
 at our cardiovascular system, [as the Troponin I biomarker could be used to monitor how severe the infection was on hospitalized
 patients](https://www.nature.com/articles/s41569-020-0360-5?fbclid=IwAR3TjvxiEtYQqNkpsPuEuuef94Gp2m4a89YFxubY2pw2FtOxsSpxGZ18TmI), a protein
 measured to infer how much damage is being generated to our heart tissues, that's why it is commonly used as a signaler for medics to forecast and alert *heart attacks*.
-So anyone with chronic heart diseases was included in the risk group ahead of existing respiratory conditions, as cardiovascular comorbidities [started to surge as a comorbity able to predict
-a patient outcome in terms of likelihood of survival](https://journals.physiology.org/doi/full/10.1152/ajpheart.00215.2020).
+So anyone with chronic heart diseases was included in the risk group ahead of existing respiratory conditions, as cardiovascular comorbities [started to surge as able to predict
+a patient outcome in terms of likelihood of survival](https://journals.physiology.org/doi/full/10.1152/ajpheart.00215.2020). 
+The ACE2 receptor and its interactions were and still are under heavy studies, since the mechanisms behind the virus interactions with the receptor, even when isolated, are not easy to determine the consequences in a complex environment such as a the human body. One key early concept worth noting is sourced from a study citing [ACE2 enyzmes as 'Trojan Horses'](https://journals.physiology.org/doi/full/10.1152/ajpheart.00215.2020), explicitly focusing on the virus cardiovasuclar implications and understanding all pharmokinectics involved between our receptors and the virus.
 
-Another risk factor that increasingly got attention from the medical community were the kidneys, as one of the body's
+A risk factor at first deemed irrelevant surged silently between medical community, as more data provided information about how damaging the virus was to our kidneys, one of the body's
 organs most rich in ACE-2 receptors number counts, it seemed like an intuitive analysis: [kidneys are main targets for the virus](https://www.medrxiv.org/content/medrxiv/early/2020/04/10/2020.03.04.20031120.full.pdf) and a [major risk factor](https://www.nejm.org/doi/full/10.1056/NEJMc2011400).
  This is one of the key characteristics that really surprised me on how backward the initial analysis were if you would consider a 'bradykinin storm' scenario. 
+ As science progressed in understanding the virus, the consensus [skewed towards a seemingly less understandable version of what the virus actually was](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0066-782X2020000900149&lng=en&nrm=iso&tlng=en), challenging even 'common-sense' facts as applying sciencetific methodologies and their inability to cope with the unknown spectrum of knowledge, forcing even the most knowledge person in the subject to high degrees of doubt (e.g. [1](https://www.nytimes.com/2020/04/07/science/coronavirus-uncertainty-scientific-trust.html), [2](https://www.scientificamerican.com/article/living-with-scientific-uncertainty/)).
 
- ...(Work in progress)
 
- References: [1](https://elifesciences.org/articles/59177), [2](https://www.the-scientist.com/news-opinion/is-a-bradykinin-storm-brewing-in-covid-19--67876), [3](https://www.thehindu.com/sci-tech/health/is-covid-19-setting-off-a-bradykinin-storm-in-the-body/article32531836.ece), [4](https://journals.physiology.org/doi/full/10.1152/ajpheart.00215.2020), [5](https://link.springer.com/content/pdf/10.1186/s13054-020-02872-z.pdf)
+
+ References: [1](https://elifesciences.org/articles/59177), [2](https://www.the-scientist.com/news-opinion/is-a-bradykinin-storm-brewing-in-covid-19--67876), [3](https://www.thehindu.com/sci-tech/health/is-covid-19-setting-off-a-bradykinin-storm-in-the-body/article32531836.ece), [4](https://link.springer.com/content/pdf/10.1186/s13054-020-02872-z.pdf)
