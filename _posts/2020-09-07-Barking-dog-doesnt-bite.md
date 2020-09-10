@@ -8,7 +8,7 @@ keywords: "COVID sars-cov-2 pandemic virus bradykinin"
 ### Why SARS-CoV-2 may have a 'simple' explanation and the reason no human thought of it
 
 
-##### ~ 4m59s reading time article | [synthetictulpas.com/blog/20200/Barking-dog-doesnt-bite](https://verifiedgruber.github.io/blog//2020/Barking-dog-doesnt-bite/)
+##### ~ 5m2s reading time article | [synthetictulpas.com/blog/2020/Barking-dog-doesnt-bite](https://verifiedgruber.github.io/blog//2020/Barking-dog-doesnt-bite/)
 
 -----------------------
 A paper first published
@@ -58,6 +58,7 @@ organs most rich in ACE-2 receptors number counts, it seemed like an intuitive a
  This is one of the key characteristics that really surprised me on how backward the initial analysis were if you would consider a 'bradykinin storm' scenario. 
  As science progressed in understanding the virus, the consensus [skewed towards a seemingly less understandable version of what the virus actually was](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0066-782X2020000900149&lng=en&nrm=iso&tlng=en), challenging even 'common-sense' facts as applying sciencetific methodologies and their inability to cope with the unknown spectrum of knowledge, forcing even the most knowledge person in the subject to high degrees of doubt (e.g. [1](https://www.nytimes.com/2020/04/07/science/coronavirus-uncertainty-scientific-trust.html), [2](https://www.scientificamerican.com/article/living-with-scientific-uncertainty/)).
 
+### A machine-made hypothesis 
 
 
  References: [1](https://elifesciences.org/articles/59177), [2](https://www.the-scientist.com/news-opinion/is-a-bradykinin-storm-brewing-in-covid-19--67876), [3](https://www.thehindu.com/sci-tech/health/is-covid-19-setting-off-a-bradykinin-storm-in-the-body/article32531836.ece), [4](https://link.springer.com/content/pdf/10.1186/s13054-020-02872-z.pdf)
