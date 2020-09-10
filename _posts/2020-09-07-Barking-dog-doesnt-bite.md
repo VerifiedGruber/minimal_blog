@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "'Barking Dog Doesn't Bite' - SARS-CoV-2 analysis
-description: "A recent study published by Garvin MR, Alvarez C, Miller JI, et al. higlights why we were not able to identify COVID-19 main characteristics"
-keywords: "covid sars-cov-2 pandemic virus bradykinin"
+description: "A recent study published by Garvin MR, Alvarez C, Miller JI, et al. highlights why we were not able to identify COVID-19 main characteristics"
+keywords: "COVID sars-cov-2 pandemic virus bradykinin"
 ---
 
 ## Why SARS-CoV-2 may be more simple and deadly than we previously thought"
@@ -32,12 +32,12 @@ Using pharmacology and genetics to explain how SARS-CoV-2 works is nothing new, 
 
 ## A brief historical academic review
 
-Initially understood as a virus weaponized to affect our lungs, authorities quickly noticed something was amiss, shortly afterward a main binding mechanism was identified: angiotensin-2, or ACE-2 receptors, an unusual group with no known mechanism linked to cytokine storms nor repisratory diseases, coupled with these findings came the first wave of hospitalized patients and efforts in identifying the disease characteristics, where doctors noticed this virus
+Initially understood as a virus weaponized to affect our lungs, authorities quickly noticed something was amiss, shortly afterward a main binding mechanism was identified: angiotensin-2, or ACE-2 receptors, an unusual group with no known mechanism linked to cytokine storms nor respiratory diseases, coupled with these findings came the first wave of hospitalized patients and efforts in identifying the disease characteristics, where doctors noticed this virus
 had serious symptoms such as cytokines storms and deadly pneumonia with severe affected lungs as a result, where patients regularly needed artificial breathing (i.e. ventilators) in order to stay alive. 
 
 'Cytokine storm' is a loose term for classifying scenarios where your immunity system cells is unable to properly identify the foreign entity - such as a virus - and as a result it starts attacking its own tissues, 
 a behavior that initially classified immune-depressed population and chronic respiratory diseases as higher "deadly risk" for currently infected SARS-CoV-2 patients. 
-A conclusion that does not fit meta-analysis from historical data, as smokers were considered to be one of the most at risk groups from initial analysis, instead, [they turned out 
+A conclusion that does not fit meta-analysis from historical data, as smokers were considered to be one of the most at-risk groups from initial analysis, instead, [they turned out 
 to have a lower hospitalization ratio than your average non-smoker, surprisingly](https://journals.sagepub.com/doi/full/10.1177/2040622320935765), a conclusion supported by data even when considering gender, age distribution, underlying 
  conditions and race.
 
