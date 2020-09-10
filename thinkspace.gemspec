@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
-	spec.name          = "minimal_blog"
+	spec.name          = "bg"
 	spec.version       = "2.5.0"
 	spec.authors       = ["Rodrigo Gruber"]
 	spec.email         = ["736d9d13-b432-45b3-a5e5-f012126caca9@gruber.anonaddy.com"]
 
 	spec.summary       = "A collection of notes regarding pharmacology, new-tech, open-source projects and personal thoughts."
-	spec.homepage      = "https://github.com/VerifiedGruber/minimal_blog"
+	spec.homepage      = "https://github.com/VerifiedGruber/bg"
 	spec.license       = "MIT"
 
 	spec.metadata["plugin_type"] = "theme"
