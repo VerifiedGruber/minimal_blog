@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-	spec.name          = "blog"
+	spec.name          = "minimal_blog"
 	spec.version       = "2.5.0"
 	spec.authors       = ["Rodrigo Gruber"]
 	spec.email         = ["736d9d13-b432-45b3-a5e5-f012126caca9@gruber.anonaddy.com"]
