@@ -5,12 +5,13 @@ description: "A recent study published by Garvin MR, Alvarez C, Miller JI, et al
 keywords: "COVID sars-cov-2 pandemic virus bradykinin"
 ---
 
-### Why SARS-CoV-2 may have a 'simple' explanation and the reason no human thought of it
+### Why SARS-CoV-2 may have a 'simple' thereotical explanation and why a machine was the right tool of choice for this analysis
 
 
-##### ~ 5m2s reading time article | [synthetictulpas.com/blog/2020/Barking-dog-doesnt-bite](https://verifiedgruber.github.io/blog//2020/Barking-dog-doesnt-bite/)
+##### ~ 7 minutes reading time article | [synthetictulpas.com/blog/2020/Barking-dog-doesnt-bite](https://verifiedgruber.github.io/blog//2020/Barking-dog-doesnt-bite/)
 
 -----------------------
+
 A paper first published
 [July 7th](https://web.archive.org/web/*/https://elifesciences.org/articles/59177)
 (as of 2020) reads *"A mechanistic model and therapeutic interventions for
@@ -32,7 +33,7 @@ Using pharmacology and genetics to explain how SARS-CoV-2 works is nothing new, 
 
  Albeit these studies are relevant to the matter and discussing pharmacology and SARS-CoV-2 pharmacokinetics properties is one of the best approaches to unknown pathologies, they are biased towards explaining observable mechanisms and fail to identify underlying conditions that could be attributed to a single common underlying cause, seemingly only being able to explain what has been previously seen or studied, as a result their theories are limited on a theoretical framework.
 
- Instead of focusing on what they got 'wrong' individually, repeating in an analogous way the bias embedded in their respective perspectives into this novelty pathogen, this article will try to share a different perspective and why the cited properties are not only relevant, but they will be a huge part bioinformatics studies, especially when studying novelty pathogens.
+ Instead of focusing on their more orthodox approaches, I will respectfully diverge from their perspective as we're dealing with a novelty pathogen. This article's objective is to share a different perspective on an issue that seems to have a different face-value for most, as in, there is a a lot of subjectivity analysis being thrown in ways that undermine a less knowledgeble reader's understanding. *Said that*, I'm not an expert on the medical field nor should any of what I will just say be cited unless you're providing proper sources and context, and perhaps, valid criticism. You should **not** take medical advice or knowledge from strangers on the internet.
 
 ## A brief historical academic review
 
@@ -50,7 +51,7 @@ at our cardiovascular system, [as the Troponin I biomarker could be used to moni
 patients](https://www.nature.com/articles/s41569-020-0360-5?fbclid=IwAR3TjvxiEtYQqNkpsPuEuuef94Gp2m4a89YFxubY2pw2FtOxsSpxGZ18TmI), a protein
 measured to infer how much damage is being generated to our heart tissues, that's why it is commonly used as a signaler for medics to forecast and alert *heart attacks*.
 So anyone with chronic heart diseases was included in the risk group ahead of existing respiratory conditions, as cardiovascular comorbities [started to surge as able to predict
-a patient outcome in terms of likelihood of survival](https://journals.physiology.org/doi/full/10.1152/ajpheart.00215.2020). 
+a patient outcome in terms of likelihood of survival](https://journals.physiology.org/doi/full/10.1152/ajpheart.00215.2020).
 The ACE2 receptor and its interactions were and still are under heavy studies, since the mechanisms behind the virus interactions with the receptor, even when isolated, are not easy to determine the consequences in a complex environment such as a the human body. One key early concept worth noting is sourced from a study citing [ACE2 enyzmes as 'Trojan Horses'](https://journals.physiology.org/doi/full/10.1152/ajpheart.00215.2020), explicitly focusing on the virus cardiovasuclar implications and understanding all pharmokinectics involved between our receptors and the virus.
 
 A risk factor at first deemed irrelevant surged silently between medical community, as more data provided information about how damaging the virus was to our kidneys, one of the body's
@@ -58,7 +59,10 @@ organs most rich in ACE-2 receptors number counts, it seemed like an intuitive a
  This is one of the key characteristics that really surprised me on how backward the initial analysis were if you would consider a 'bradykinin storm' scenario. 
  As science progressed in understanding the virus, the consensus [skewed towards a seemingly less understandable version of what the virus actually was](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0066-782X2020000900149&lng=en&nrm=iso&tlng=en), challenging even 'common-sense' facts as applying sciencetific methodologies and their inability to cope with the unknown spectrum of knowledge, forcing even the most knowledge person in the subject to high degrees of doubt (e.g. [1](https://www.nytimes.com/2020/04/07/science/coronavirus-uncertainty-scientific-trust.html), [2](https://www.scientificamerican.com/article/living-with-scientific-uncertainty/)).
 
-### A machine-made hypothesis 
+### A machine-made hypothesis
 
+What is known about 'Cytokines Storms' and the limitations of our knowledge are good starting points to comprehend why there are so many unknown variables at play when it comes to our imunological system. The key protein known as Angiotensin-converting enyzme 2, or 'ACE2 Receptor' is the main target for SARS-CoV-2, this is largely supported by the scientific community, but what is hypothsized inn most papers is that the virus acts like an inhibitor, that is, the virus act as a blocker for specific enzymes on the receptor it is attaching itself to, reducing the stimulation of each receptor's signaling, and as a result, provokes an inhibitory effect on our system's targeted cells. What has been discovered by Daniel Jacobson team through analyzing possible interconnected proteins related to COVID-19 infections is the fact that the virus may be acting like an agonist instead of an inhibitor, playing an unthinkable role so far, as there are scarce informationn about viruses acting as receptors agonists, mimicking the protein behavior in order to speed the cell's production of enyzmes.
+
+From this short piece of informationn alone you can possibly deduce how many hypothesis can come from such a simplistic contrarian view that was largely not considered due to the lack of analogous examples in other known diseases. This hypothesis is able to explain why dosing ACE2 inhibitors as antihypertensive agents do not pose a threat during the pandemic, as antagonists will probably interfere in the virus behavior as they would be compete for receptors ligands and could pose no major difference to minor improvement in COVID-19 cases, if that was the case, and data seems to support that hypothesis.
 
  References: [1](https://elifesciences.org/articles/59177), [2](https://www.the-scientist.com/news-opinion/is-a-bradykinin-storm-brewing-in-covid-19--67876), [3](https://www.thehindu.com/sci-tech/health/is-covid-19-setting-off-a-bradykinin-storm-in-the-body/article32531836.ece), [4](https://link.springer.com/content/pdf/10.1186/s13054-020-02872-z.pdf)
