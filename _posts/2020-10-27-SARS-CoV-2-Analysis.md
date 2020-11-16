@@ -7,8 +7,7 @@ keywords: "COVID sars-cov-2 pandemic virus bradykinin"
 
 ### Why SARS-CoV-2 was 'explained' by a computer
 
-
-##### ~ 13 minutes reading time article | [synthetictulpas.com/blog/2020/Barking-dog-doesnt-bite](https://verifiedgruber.github.io/blog//2020/Barking-dog-doesnt-bite/)
+##### ~ 13 minutes reading time article | [blog.tulpas.dev//2020/SARS-CoV-2-Analysis](https://blog.tulpas.dev//2020/SARS-CoV-2-Analysis/)
 
 -----------------------
 
