@@ -43,10 +43,10 @@ The whole purpose of being able to negotiate evenly credit-wise with all your co
 OTC traders understand that certain types of contracts will be not only negotiable in terms of customization because they can’t fill a single custom contract, they also understand their exposition to a distorted price formation process, results of the greediness of intermediary traders trying to achieve better prices using risky counterparts as their execution prices. This process also raises the risk of those indirectly exposed to those low-credit agents which increases the system risk as a whole and affects negatively all institutional traders, for those adopting the CLOB mechanism or not. This 'tail risk' is not an imminent threat because there are only a few examples of similar trading structures in real markets. When similar systems were implemented on European wholesale spot energy markets, they went far to ensure margin for this kind of operation that limits most of participants actions, and as a consequence, most were left out, since energy trading contracts is widely considered one of the most volatile contracts in the world and would require unpractical margins for centralized trading. [This is one of the reasons why a lot of European energy trading volume is still traded through OTC](https://ec.europa.eu/energy/sites/ener/files/documents/quarterly_report_on_european_electricity_markets_q2_2018.pdf) (Page 14, Figure 16), for example. [New solutions have been urgently called by both regulators and exchanges alike](https://www.fisglobal.com/solutions/institutional-and-wholesale/-/media/fisglobal/files/brochure/the-state-of-short-term-power-trading-in-europe.pdf), but as long this asymmetry persists on how the price is perceived by traders, it'll probably take some time until we get there.
 
 ### References:
-> [1]: Gregory, Jon (7 September 2011), Counterparty Credit Risk: The new challenge for global financial markets, John Wiley & Sons, p. 448
 
-> [2]: Lehalle and Laruelle, (2017). Market microstructure in practice: 2nd edition, World Scientific, p. 9
+> 1. Gregory, Jon (7 September 2011), Counterparty Credit Risk: The new challenge for global financial markets, John Wiley & Sons, p. 448
+> 2. Lehalle and Laruelle, (2017). Market microstructure in practice: 2nd edition, World Scientific, p. 9
 
-
-> Disclaimer: European, American or Brazilian laws specific to trading behavior or practices were not considered. This is a theoretical approach to a hypothetical micro-structure model.
+### Disclaimer:
+>  European, American or Brazilian laws specific to trading behavior or practices were not considered. This is a theoretical approach to a hypothetical micro-structure model.
 
