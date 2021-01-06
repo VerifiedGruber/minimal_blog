@@ -5,6 +5,7 @@ Gemfile.lock
 .devcontainer/
 .jekyll-cache/
 .vscode/
+/.vscode
 
 # Windows image file caches
 Thumbs.db
