@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Rodrigo Gruber"
+  name     : "Gruber"
 
 plugins:
   - jekyll-sitemap

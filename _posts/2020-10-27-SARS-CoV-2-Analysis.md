@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A SARS-CoV-2 analysis"
-description: "A recent study published by Garvin MR, Alvarez C, Miller JI, et al. highlights     why we were not able to identify COVID-19 main characteristics"
+description: "A recent study published by Garvin MR, Alvarez C, Miller JI, et al. highlights why we were not able to identify COVID-19 main characteristics early on"
 keywords: "COVID sars-cov-2 pandemic virus bradykinin"
 ---
 
